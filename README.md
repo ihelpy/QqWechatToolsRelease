@@ -1,3 +1,8 @@
+# 下载地址
+
+###### [点这里下载微信版](https://github.com/ihelpy/QqWechatToolsRelease/raw/master/WXqfq.zip) 
+###### [点这里下载QQ版](https://github.com/ihelpy/QqWechatToolsRelease/raw/master/QQqfq.zip) 
+
 # 软件的介绍
 这个软件有微信和QQ两个版本的，都支持群发，多人群发，定时群发，导入导出消息，等等功能
 
@@ -8,11 +13,6 @@
 ![演示](https://github.com/ihelpy/QqWechatToolsRelease/raw/master/bin/yanshi.png "演示")
 PC版演示
 ![演示](https://github.com/ihelpy/QqWechatToolsRelease/raw/master/bin/yanshi2.png "演示")
-# 下载地址
-
-###### [点这里下载微信版](https://github.com/ihelpy/QqWechatToolsRelease/raw/master/WXqfq.zip) 
-###### [点这里下载QQ版](https://github.com/ihelpy/QqWechatToolsRelease/raw/master/QQqfq.zip) 
-
 
 
 # 常见问题说明
